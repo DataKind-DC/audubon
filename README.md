@@ -7,6 +7,24 @@ DataKind will be working with the Audubon Society to solutionize the work done o
 Our goal is to be able to say:  “After this most recent Hurricane, X amount of beaches were flooded and Y amount of Marshes were flooded. 
 Here is where they are Insert List or Map“
 
+## Volenteer Quick Start for June 13th
+Optional:If you need a 5 minute crash course of GIS and Satelitte Data Review this deck: https://drive.google.com/open?id=1md32EbjZgsf0u4t-C06H65s-u_IGKUq4KpOExdwCNk4
+1. Clone the repository and Navigate to the Examples Folder. 
+2. Follow the Examples to working with eo-learn and Sentinel
+
+## TODO for June 13th
+Algorithum for Flooding
+- Volenteers will work on creating code that determines if flooding has occurred within the DemoZone 
+Phase 1 Deliverables
+- A second QA team would be benificial here 
+
+- Provide Brief on Tidal Data
+It would be benifical for a team of volentters to look into the tidal data avilible and write a quick brief/ example in python on how to work with it. 
+
+- QA Team
+For volenteers familure with working with Satilight or image Data, it would be benificial to have a documented plan in place for how/if the greater solution should plan to store data. It would also be helpful to have the Demo zone and the shape files looked at for accuracy and completness. 
+
+
 ## Team
 Data Ambassadors - Ren C’deBaca (rectheworld@gmail.com) and David
 Project Partners - Kathy 

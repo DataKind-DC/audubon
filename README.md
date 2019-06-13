@@ -1,10 +1,11 @@
 # DataDive Project Outline for Audubon Society 
 The DataDive will be assisting the Audubon Society to build off of existing coastal erosion work to solutionize their research on habitat destruction in preparation for the coming hurricane season. 
-Background
+
+## Background
 DataKind will be working with the Audubon Society to solutionize the work done on the Rapid Evaluation of Coastal Habitat Change Report into a solution that can be used in the 2019 hurricane season. 
 
-Our goal is to be able to say:  “After this most recent Hurricane, <X> amount of beaches were flooded and <Y> amount of Marshes were flooded. 
-Here is where they are <Insert List or Map> “
+Our goal is to be able to say:  “After this most recent Hurricane, X amount of beaches were flooded and Y amount of Marshes were flooded. 
+Here is where they are Insert List or Map“
 
 ## Team
 Data Ambassadors - Ren C’deBaca (rectheworld@gmail.com) and David
@@ -18,8 +19,10 @@ I want to use Satellite data to assess the extent of flooding so that the Audubo
 ## Available Datasets
 After discussions with the Audubon Society and assessing the data available, the primary source of satellite data and band will be Sential-2. 
 
-Information about Sentinel-2 data and how to work with it in python is available here: 
-	Sign up for a free trial here
+Information about Sentinel-2 data and how to work with it in python is available here:
+https://eo-learn.readthedocs.io/en/latest/examples/io/SentinelHubIO.html
+
+Sign up for a free trial here
 https://services.sentinel-hub.com/oauth/subscription
 NOTE: we will be useing eo-learn package to interface with sentinel-2
 
@@ -33,9 +36,6 @@ Tidal Data
 www.tides4fishing.com
 
 ## Project Phases
-Project phases should be updated to fit the needs of the specific project, but a list of standard phases would be:
-
-- Introduction: Brief on Project Goals and Intro to working with Satellite Data
 - Use NDVI to determine if flooding has occured within an example DemoZone.
 - Design and Implement a system where pre-hurricane data can be collected, post- hurricane data can be collected, and flooding extent can be determined using the method created in Phase 1
 - Produce and Document output that can be ingested by ArcGIS.
